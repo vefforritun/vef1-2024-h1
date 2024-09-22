@@ -2,7 +2,21 @@
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 
-Gefin verður hönnun í Figma skjali 23. september.
+## Hönnun
+
+[Hönnun í Figma](https://www.figma.com/design/FIaiqGRdmBviTBJYK4mJnQ/vef1-2024-h1?node-id=2-2&t=qUFkm5eUXNyRyQiY-1).
+
+Hægt er að kveikja á grind með View > Layout grids.
+
+Allt efni, litir, stærði o.s.fr skal taka úr Figma skjali.
+
+Ekki þarf að útfæra neina virkni fyrir takka eða form.
+
+Hönnunin **er ekki fullkomin** og er ósamræmi í bilum, stærðum o.þ.h. Leyfilegt er að normalísera en hægt er að spyrja spurninga um hönnun á rásinni `#vef1-2024-h1`. Einnig er leyfilegt að laga hluti sem stangast á við annað sem við höfum farið yfir í fyrirlestrum og í námsefni.
+
+Gefin er desktop og mobile hönnun. Passa þarf upp á að vefur sé skalanlegur á milli.
+
+Vefur skal vera prófaður og virka í nýjustu útgáfum af Firefox og Chrome.
 
 ## Hópavinna
 
